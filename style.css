@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(55, 46, 139);
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #120e3a;
+    color: rgb(221, 179, 40);
+  }
+
+p{
+    color:brown;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: url(./fild.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+ .firsthead h1{
+   
+    padding-left: 20px;
+    color: rgb(43, 38, 38);
+    font-size: 70px;
+    text-align: center;
+}
+
+
+
+.block_a  {
+    
+    margin-left: 30px;
+    height: 150px;
+    width: 400px;
+    text-align: center;
+    background: rgb(66, 61, 61);
+    display: block;
+    /* border-radius: 30px; */
+    opacity: 0.70;
+    
+    
+}
+
+.block_b{
+  
+  margin-left: 30px;
+  height: 150px;
+  width: 400px;
+  text-align: center;
+  background: rgb(66, 61, 61);
+  display: block;
+  /* border-radius: 30px; */
+  opacity: 0.70;
+  
+}
+
+.block_c{
+  
+  margin-left: 30px;
+  height: 150px;
+  width: 400px;
+  text-align: center;
+  background: rgb(66, 61, 61);
+  display: block;
+  /* border-radius: 30px; */
+  opacity: 0.70;
+  
+}
+
+
+
+.block_a h1{
+  padding-top: 15px;
+  font-size: 30px;
+  color:antiquewhite
+}
+
+.block_b h1{
+  padding-top: 15px;
+  font-size: 30px;
+  color:antiquewhite
+}
+
+.block_c h1{
+  padding-top:15px;
+  font-size: 30px;
+  color:antiquewhite
+}
+
+
