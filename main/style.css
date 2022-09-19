@@ -1,11 +1,13 @@
 body {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cuprum', sans-serif;
+    background: url(./fild.jpg) no-repeat center center fixed;
+    background-size: cover;
   }
   
   .topnav {
     overflow: hidden;
-    background-color: rgb(55, 46, 139);
+    background: linear-gradient(to right, rgb(45, 45, 119), rgb(101, 91, 136));
   }
   
   .topnav a {
@@ -14,7 +16,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
   }
   
   .topnav a:hover {
@@ -27,15 +29,9 @@ body {
     color: rgb(221, 179, 40);
   }
 
-p{
-    color:brown;
-    font-family: 'Roboto', sans-serif;
-}
 
-body {
-    background: url(./fild.jpg) no-repeat center center fixed;
-    background-size: cover;
-}
+
+
 
  .firsthead h1{
    
@@ -105,6 +101,31 @@ body {
   padding-top:15px;
   font-size: 30px;
   color:antiquewhite
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 10px;
+  color: rgb(226, 186, 186);
+  font-size: 25px;
+  font-style: italic ;
+  margin-left: 20px;
+  float: right;
+  
+}
+
+
+
+.topnav span{
+  height: 35px;
+  width: 35px;
+  margin-top: 5px;
+  margin-right: 70px;
+  border-radius:  60%;
+  border: 3px solid;
+  float: right ;
+  border-color: rgb(233, 198, 43);
 }
 
 
