@@ -29,62 +29,24 @@ body {
     color: rgb(221, 179, 40);
   }
 
-  .block_a  {
-    
+.all_this> div{
     margin-left: 30px;
     height: 150px;
     width: 400px;
     text-align: center;
     background: rgb(66, 61, 61);
     display: block;
-    /* border-radius: 30px; */
     opacity: 0.70;
-    
-    
 }
 
-.block_b{
-  
-  margin-left: 30px;
-  height: 150px;
-  width: 400px;
-  text-align: center;
-  background: rgb(66, 61, 61);
-  display: block;
-  /* border-radius: 30px; */
-  opacity: 0.70;
-  
-}
-
-.block_c{
-  
-  margin-left: 30px;
-  height: 150px;
-  width: 400px;
-  text-align: center;
-  background: rgb(66, 61, 61);
-  display: block;
-  /* border-radius: 30px; */
-  opacity: 0.70;
-  
-}
-
-
-
-.block_a h1{
-  padding-top: 15px;
+.all_this> div h1{
+    padding-top:15px;
   font-size: 30px;
   color:antiquewhite
 }
 
-.block_b h1{
-  padding-top: 15px;
-  font-size: 30px;
-  color:antiquewhite
-}
-
-.block_c h1{
-  padding-top:15px;
-  font-size: 30px;
-  color:antiquewhite
+.all_this> div a{
+    font-size: 20px;
+    color: rgb(6, 175, 6);
+    text-decoration: none;
 }

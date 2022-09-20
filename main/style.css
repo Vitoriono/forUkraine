@@ -30,12 +30,7 @@ body {
   }
 
   
-
-
-
-
-
- .firsthead h1{
+  .firsthead h1{
    
     padding-left: 20px;
     color: rgb(43, 38, 38);
@@ -119,15 +114,42 @@ body {
 
 
 
-.topnav span{
+.dropbtn {
   height: 35px;
   width: 35px;
-  margin-top: 5px;
-  margin-right: 70px;
   border-radius:  60%;
   border: 3px solid;
-  float: right ;
-  border-color: rgb(233, 198, 43);
+  /* color: rgb(221, 179, 40); */
+  background-color:  #1347b9;
+  border-color: rgb(255, 214, 80);
+  position: relative;
+  top: 13%;
+  
+}
+
+.insert p{
+  color: rgb(233, 216, 216);
+  font-size: 15px;
+  position: relative;
+  bottom: 10%;
+}
+
+.insert {
+  float: right;
+  display: flex;
+  margin-right: 10px;
+  height: 44px;
+  align-items: flex-start;
+  
+}
+
+img{
+  height: 30px;
+  width: 30px;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  top: 15%;
 }
 
 
