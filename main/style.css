@@ -31,11 +31,13 @@ body {
 
   
   .firsthead h1{
-   
+    position: absolute;
     padding-left: 20px;
     color: rgb(43, 38, 38);
     font-size: 70px;
     text-align: center;
+    left: 30%;
+    
 }
 
 
@@ -128,7 +130,7 @@ body {
 }
 
 .insert p{
-  color: rgb(233, 216, 216);
+  color: rgb(182, 190, 211);
   font-size: 15px;
   position: relative;
   bottom: 10%;
@@ -152,4 +154,47 @@ img{
   top: 15%;
 }
 
+.list {
+  /* display: none; */
+   /* position: relative;  */
+  
+  color:#ddd;
+  background-color:rgb(66, 61, 61);
+  padding-top: 5px;
+  margin-right: 20px;
+  /* padding-left: 50px; */
+  font-size: 20px;
+  opacity: 0.7;
+  width: 400px;
+   float: right; 
+  z-index: 1;
+}
+
+
+.article p, .rows {
+  padding-left: 20px ;
+}
+
+.maps{
+  padding-left: none;
+  height: inherit;
+  width: inherit;
+ 
+}
+
+.uno_list::marker{
+  color: rgb(15, 47, 136);
+  font-size: 35px;
+  
+}
+
+.dos_list::marker{
+  color: rgb(122, 19, 24);
+  font-size: 35px;
+}
+
+.tres_list::marker{
+  color: rgb(16, 46, 7);
+  font-size: 35px;
+}
 
