@@ -42,13 +42,30 @@ body {
     box-shadow: 10px 5px 5px rgb(12, 48, 5);
 }
 
-.bottom_img{
-    box-shadow: 10px 5px 5px rgb(12, 48, 5);
-}
-
 .upper{
     margin-bottom: 20px;
 }
+
+
+
+.next_cap{
+    float: right;
+    
+}
+
+.cap{
+  width: 800px;
+  text-align: center;
+}
+
+.under_text p{
+    font-size: 20px;
+}
+
+
+
+
+
 
 
 
