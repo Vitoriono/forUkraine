@@ -155,18 +155,16 @@ img{
 }
 
 .list {
-  /* display: none; */
-   /* position: relative;  */
-  
+   display: none; 
+   /* display: block; */
   color:#ddd;
   background-color:rgb(66, 61, 61);
   padding-top: 5px;
   margin-right: 20px;
-  /* padding-left: 50px; */
   font-size: 20px;
   opacity: 0.7;
   width: 400px;
-   float: right; 
+  float: right; 
   z-index: 1;
 }
 
