@@ -35,44 +35,40 @@ body {
 }
 
 .left_note{
-  border: solid 3px red;
+  /* border: solid 3px red; */
   margin: 20px;
   margin-top: 0px;
   height: 750px;
-  width: 320px;
-  
-  display: inline-flex;
+  width: 302px;
+  display: inline-block;
 }
 
 .header{
-  position:fixed;
-  display: inline;
-  top: 8%;
-  left: 5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* border: solid 2px black; */
+ 
 }
 
 .header p{
+  margin: 0px;
   font-size: 20px;
   color: rgb(65, 57, 57);
+  text-align: center;
 }
 
-.insects p{
-  font-size: 17px;
-  color:rgb(65, 57, 57);
-  margin-top: 0px;
-  margin-left: 4px;
-  margin-bottom: 10px;
-}
 
-.container_a{
-  margin-top: 40px;
+
+.container_a, .container_b, .container_c{ 
+  /* margin-top: 40px; */
   height: 226px;
+  width: 301px;
   margin-bottom: 0px;
   background: rgb(214, 201, 201);
   border: solid 1px black;
 }
 
-.container_b{
+/* .container_b{
   margin: 0px;
   height: 226px;
   background: rgb(214, 201, 201);
@@ -85,12 +81,15 @@ body {
   height: 226px;
   background: rgb(214, 201, 201);
   border: solid 1px black;
-}
+} */
 
 .insects img{
   width: 300;
   height: 203px;
 }
+
+
+
 
 .floral img{
   width: 300px;
@@ -102,7 +101,18 @@ body {
   height: 203px;
 }
 
-.floral p{
+
+
+
+.insects p, .floral p, .fauna p{
+  font-size: 17px;
+  color:rgb(65, 57, 57);
+  margin-top: 0px;
+  margin-left: 4px;
+  margin-bottom: 10px;
+}
+
+/* .floral p{
   font-size: 17px;
   color:rgb(65, 57, 57);
   margin-top: 0px;
@@ -115,7 +125,10 @@ body {
   color:rgb(65, 57, 57);
   margin-top: 0px;
   margin-left: 4px;
-}
+  margin-bottom: 10px;
+} */
+
+
 
 
 
