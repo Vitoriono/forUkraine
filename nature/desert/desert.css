@@ -21,20 +21,6 @@ body{
   font-style: italic;
 }
 
-/* .bird{
-  border: solid 3px red;
-} */
-
-/* .text{
-  border: solid 3px red;
-} */
-
-.bird img{
-  height: 610px;
-  width: 610px;
-  /* border: solid 3px red; */
-}
-
 .name{
   /* border: solid 3px red; */
   position: absolute;
@@ -45,4 +31,32 @@ body{
 .name p{
   font-size: 25px;
   font-style: italic;
+}
+
+.deer{
+  display: none;
+}
+
+.bird{
+  display: none;
+}
+
+.squirrel{
+  display: none;
+}
+
+.lynx{
+  display: none;
+}
+
+.fox{
+  display: none;
+}
+
+.grouse{
+  display: none;
+}
+
+.hedgehog{
+  display: none;
 }
