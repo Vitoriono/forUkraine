@@ -33,11 +33,11 @@ body{
   font-style: italic;
 }
 
-.deer{
+.deer, .bird, .squirrel, .lynx, .fox, .grouse, .hedgehog, .nightingale{
   display: none;
 }
 
-.bird{
+/* .bird{
   display: none;
 }
 
@@ -59,4 +59,4 @@ body{
 
 .hedgehog{
   display: none;
-}
+} */
