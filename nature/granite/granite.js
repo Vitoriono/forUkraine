@@ -61,11 +61,6 @@ active.onmouseleave = () => {
 }
 
 
-
-
-
-
-
 active.onclick = () => {
   active.style.color = 'rgb(104, 26, 26)';
   article.style.opacity = '1.0';

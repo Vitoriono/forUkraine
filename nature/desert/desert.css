@@ -1,0 +1,48 @@
+body{
+  background-color: rgb(216, 215, 191);
+}
+
+.main{
+  margin-left: auto;
+  margin-right: auto;
+  width: 60em;
+  /* border: solid 3px red; */
+  position:sticky;
+}
+
+.text h1{
+  font-family: 'Raleway', sans-serif;
+  font-size: 70px;
+  margin-bottom: 0px;
+}
+
+.text p{
+  font-size: 30px;
+  font-style: italic;
+}
+
+/* .bird{
+  border: solid 3px red;
+} */
+
+/* .text{
+  border: solid 3px red;
+} */
+
+.bird img{
+  height: 610px;
+  width: 610px;
+  /* border: solid 3px red; */
+}
+
+.name{
+  /* border: solid 3px red; */
+  position: absolute;
+  bottom: 0px;
+  right: 50px;
+}
+
+.name p{
+  font-size: 25px;
+  font-style: italic;
+}
