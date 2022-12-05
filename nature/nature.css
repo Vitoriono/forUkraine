@@ -30,7 +30,7 @@
     color: rgb(221, 179, 40);
   }
 
-  .all_this> div{
+  .all_this> div {
     margin-left: 30px;
     height: 150px;
     width: 400px;
@@ -40,13 +40,13 @@
     opacity: 0.70;
   }
 
-  .all_this> div h1{
+  .all_this> div h1 {
     padding-top:15px;
     font-size: 30px;
     color:antiquewhite
   }
 
-  .all_this> div a{
+  .all_this> div a {
     font-size: 20px;
     color: rgb(6, 175, 6);
     text-decoration: none;
@@ -63,7 +63,7 @@
     top: 13%;
   }
 
-  .insert p{
+  .insert p {
     color: rgb(182, 190, 211);
     font-size: 15px;
     position: relative;
