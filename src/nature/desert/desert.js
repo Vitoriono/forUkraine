@@ -1,3 +1,4 @@
+
 let deer = document.querySelector('.deer');
 let bird = document.querySelector('.bird');
 let hedgehog = document.querySelector('.hedgehog');

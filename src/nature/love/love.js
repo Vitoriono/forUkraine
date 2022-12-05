@@ -1,3 +1,4 @@
+
 let fullHeight, innerHeight;
 let progressBar = document.querySelector('.progressbar>.grogressbar-line');
 
