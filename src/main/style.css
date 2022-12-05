@@ -2,7 +2,7 @@
   body {
     margin: 0;
     font-family: 'Cuprum', sans-serif;
-    background: url(./fild.jpg) no-repeat center center fixed;
+    background: url(../../assets/fild.jpg) no-repeat center center fixed;
     background-size: cover;
   }
   
