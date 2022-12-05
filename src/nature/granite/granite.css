@@ -2,7 +2,7 @@
   body {
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
-    background: url(./granit_clif.jpg) no-repeat center center fixed;
+    background: url(../../../assets/granit_clif.jpg) no-repeat center center fixed;
     background-size: cover;
   }
 
