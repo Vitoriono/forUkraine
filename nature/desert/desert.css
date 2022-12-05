@@ -1,62 +1,38 @@
-body{
-  background-color: rgb(216, 215, 191);
-}
 
-.main{
-  margin-left: auto;
-  margin-right: auto;
-  width: 60em;
-  /* border: solid 3px red; */
-  position:sticky;
-}
+  body {
+    background-color: rgb(216, 215, 191);
+  }
 
-.text h1{
-  font-family: 'Raleway', sans-serif;
-  font-size: 70px;
-  margin-bottom: 0px;
-}
+  .main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+    position:sticky;
+  }
 
-.text p{
-  font-size: 30px;
-  font-style: italic;
-}
+  .text h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+    margin-bottom: 0px;
+  }
 
-.name{
-  /* border: solid 3px red; */
-  position: absolute;
-  bottom: 0px;
-  right: 50px;
-}
+  .text p { 
+    font-size: 30px;
+    font-style: italic;
+  }
 
-.name p{
-  font-size: 25px;
-  font-style: italic;
-}
+  .name {
+    position: absolute;
+    bottom: 0px;
+    right: 50px;
+  }
 
-.deer, .bird, .squirrel, .lynx, .fox, .grouse, .hedgehog, .nightingale{
-  display: none;
-}
+  .name p {
+    font-size: 25px;
+    font-style: italic;
+  }
 
-/* .bird{
-  display: none;
-}
+  .deer, .bird, .squirrel, .lynx, .fox, .grouse, .hedgehog, .nightingale {
+    display: none;
+  }
 
-.squirrel{
-  display: none;
-}
-
-.lynx{
-  display: none;
-}
-
-.fox{
-  display: none;
-}
-
-.grouse{
-  display: none;
-}
-
-.hedgehog{
-  display: none;
-} */

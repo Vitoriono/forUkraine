@@ -1,4 +1,5 @@
-body {
+
+  body {
     margin: 0;
     font-family: 'Cuprum', sans-serif;
     background: url(./deers.jpg) no-repeat center center fixed;
@@ -29,7 +30,7 @@ body {
     color: rgb(221, 179, 40);
   }
 
-.all_this> div{
+  .all_this> div{
     margin-left: 30px;
     height: 150px;
     width: 400px;
@@ -37,54 +38,51 @@ body {
     background: rgb(66, 61, 61);
     display: block;
     opacity: 0.70;
-}
+  }
 
-.all_this> div h1{
+  .all_this> div h1{
     padding-top:15px;
-  font-size: 30px;
-  color:antiquewhite
-}
+    font-size: 30px;
+    color:antiquewhite
+  }
 
-.all_this> div a{
+  .all_this> div a{
     font-size: 20px;
     color: rgb(6, 175, 6);
     text-decoration: none;
-}
+  }
 
-.dropbtn {
-  height: 35px;
-  width: 35px;
-  border-radius:  60%;
-  border: 3px solid;
-  /* color: rgb(221, 179, 40); */
-  background-color:  #1347b9;
-  border-color: rgb(255, 214, 80);
-  position: relative;
-  top: 13%;
-  
-}
+  .dropbtn {
+    height: 35px;
+    width: 35px;
+    border-radius:  60%;
+    border: 3px solid;
+    background-color:  #1347b9;
+    border-color: rgb(255, 214, 80);
+    position: relative;
+    top: 13%;
+  }
 
-.insert p{
-  color: rgb(182, 190, 211);
-  font-size: 15px;
-  position: relative;
-  bottom: 10%;
-}
+  .insert p{
+    color: rgb(182, 190, 211);
+    font-size: 15px;
+    position: relative;
+    bottom: 10%;
+  }
 
-.insert {
-  float: right;
-  display: flex;
-  margin-right: 10px;
-  height: 44px;
-  align-items: flex-start;
-  
-}
+  .insert {
+    float: right;
+    display: flex;
+    margin-right: 10px;
+    height: 44px;
+    align-items: flex-start;
+  }
 
-img{
-  height: 30px;
-  width: 30px;
-  margin: 0 auto;
-  display: block;
-  position: relative;
-  top: 15%;
-}
+  img{
+    height: 30px;
+    width: 30px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    top: 15%;
+  }

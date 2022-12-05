@@ -5,7 +5,6 @@ let squirrel = document.querySelector('.squirrel');
 let lynx = document.querySelector('.lynx');
 let grouse = document.querySelector('.grouse');
 let nightingale = document.querySelector('.nightingale');
-
 let array = [deer, bird, hedgehog, squirrel, lynx, grouse, nightingale ];
 
 window.onload = () => {
